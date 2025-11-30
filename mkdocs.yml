@@ -6,3 +6,4 @@ nav:
   - Home: index.md
   - About: about.md
   - New Page: new-page.md
+  - API Reference: dist/index.html
